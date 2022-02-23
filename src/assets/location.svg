@@ -1,0 +1,32 @@
+
+<svg width="428px" height="77px" viewBox="0 0 428 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <path d="M25.95277,0.926077572 C26.545881,0.347708428 27.4955533,0.359659047 28.0739224,0.952770026 C28.6522916,1.54588101 28.640341,2.49555328 28.04723,3.07392243 L14.7102715,16.0793894 L0.969561324,3.0900441 C0.367546592,2.52094853 0.340860336,1.57157606 0.909955902,0.969561324 C1.47905147,0.367546592 2.42842394,0.340860336 3.03043868,0.909955902 L14.6780014,11.9206106 L25.95277,0.926077572 Z" id="path-1"></path>
+  </defs>
+  <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Menu/location/normal">
+      <g id="Location-Normal">
+        <rect id="Card-bg" stroke="#ADADAD" stroke-width="2" transform="translate(214.000000, 38.500000) scale(1, -1) translate(-214.000000, -38.500000) " x="1" y="1" width="426" height="75"></rect>
+        <text id="Atlanta-Midtown" opacity="0" font-family="Roboto-Bold, Roboto" font-size="22" font-weight="bold" fill="#F1F1F1">
+          <tspan x="63" y="46">Atlanta Midtown</tspan>
+        </text>
+        <g id="Icons/LocationIcon" transform="translate(30.000000, 25.000000)" fill="#2AAD79">
+          <g id="Icon">
+            <path d="M9,13.4096499 C6.4287422,13.4096499 4.34400319,11.3625184 4.34400319,8.83764477 C4.34400319,6.31394491 6.4287422,4.26681349 9,4.26681349 C11.5700624,4.26681349 13.6548014,6.31394491 13.6548014,8.83764477 C13.6548014,11.3625184 11.5700624,13.4096499 9,13.4096499 M9,0 C4.02842343,0 0,3.95692662 0,8.83764477 C0,13.7195367 9,26.25 9,26.25 C9,26.25 18,13.7195367 18,8.83764477 C18,3.95692662 13.9703812,0 9,0" id="Fill-1"></path>
+          </g>
+        </g>
+        <g id="Icons/ArrowSide" transform="translate(369.000000, 31.000000)">
+          <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+          </mask>
+          <use id="Line-Outlined" fill="#2C2C2C" fill-rule="nonzero" xlink:href="#path-1"></use>
+          <g id="Colour-White-10ft" mask="url(#mask-2)" fill="#F1F1F1" fill-rule="evenodd">
+            <g transform="translate(-38.000000, -44.000000)" id="White">
+              <rect x="0" y="0" width="104.625" height="104.625"></rect>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

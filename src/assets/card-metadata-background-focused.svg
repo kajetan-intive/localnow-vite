@@ -1,0 +1,30 @@
+
+<svg width="428px" height="357px" viewBox="0 0 428 357" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <polygon id="path-1" points="4.31578947 254.631579 402.447368 254.631579 402.447368 328 4.31578947 328"></polygon>
+    <filter x="-7.0%" y="-23.2%" width="114.1%" height="176.3%" filterUnits="objectBoundingBox" id="filter-2">
+      <feOffset dx="0" dy="11" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+      <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+      <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+    </filter>
+  </defs>
+  <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Cards/Feature-Focused" transform="translate(11.000000, 0.000000)">
+      <g id="Group">
+        <g id="Cards/More-Info-Button" opacity="0.4" transform="translate(30.000000, 336.000000)" fill="#F1F1F1" font-family="Roboto-Regular, Roboto" font-size="18" font-weight="normal">
+          <text id="Long-Press-for-More" opacity="0.5">
+            <tspan x="75.8110352" y="17">Long Press for More info</tspan>
+          </text>
+        </g>
+        <g id="Cards/Unfocus-Copy-8">
+          <g id="card-shadow">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill-opacity="0" fill="#D74141" fill-rule="evenodd" xlink:href="#path-1"></use>
+          </g>
+          <polygon id="Rectangle-2" fill="#F1F1F1" fill-rule="nonzero" points="0 0 410 0 410 328 0 328"></polygon>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

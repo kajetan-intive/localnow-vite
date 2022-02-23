@@ -1,0 +1,11 @@
+<svg width="20px" height="13px" viewBox="0 0 20 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5" stroke-linecap="round">
+    <g id="Cards/Location/Active-Focus-Hint" transform="translate(-260.000000, -375.000000)" stroke="#F1F1F1" stroke-width="3">
+      <g id="Focused-card">
+        <g id="Click-to-Remove" transform="translate(86.000000, 345.000000)">
+          <polyline id="Line" transform="translate(184.000000, 36.000000) scale(1, -1) rotate(180.000000) translate(-184.000000, -36.000000) " points="192 32 184.124247 40 181.008702 36.932102 176 32"></polyline>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -14,7 +14,18 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "react-jsx"
+    "jsx": "react-jsx",
+    "types": [
+      "@honkhonk/vite-plugin-svgr/client",
+      "src/@types",
+      "node_modules/@types"
+    ],
+    "baseUrl": "./",
+    "paths": {
+      "@project/assets/*": ["src/assets/*"],
+      "@project/containers": ["src/containers/index.ts"],
+      "@project/components": ["src/components/index.ts"]
+    }
   },
   "include": ["./src"]
 }

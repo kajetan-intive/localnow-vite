@@ -1,0 +1,16 @@
+<svg width="1920px" height="975px" viewBox="0 0 1920 975" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient x1="50%" y1="-55.7589566%" x2="50%" y2="121.708047%" id="linearGradient-1">
+      <stop stop-color="#22B77C" offset="0%"></stop>
+      <stop stop-color="#00948F" offset="100%"></stop>
+      <stop stop-color="#08CCC3" offset="100%"></stop>
+    </linearGradient>
+  </defs>
+  <g id="10ft-3.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.98">
+    <g id="10ft/10-notif-fullscreen" transform="translate(0.000000, -105.000000)" fill="url(#linearGradient-1)">
+      <g id="Green" transform="translate(-526.000000, 105.000000)">
+        <path d="M1473.87546,1591 C1861.51252,1591 2223.76437,1548.39419 2531.81939,1474.47685 C3114.43042,1334.68022 3123.79274,262.425828 2552.90823,121.653127 C2240.35092,44.5805562 1870.39409,0 1473.87546,0 C1103.8747,0 757.001784,38.8171414 458.312031,106.629626 C-147.750287,244.22588 -153.466356,1343.15659 445.550387,1481.44866 C747.103444,1551.06674 1098.59303,1591 1473.87546,1591 Z" id="Oval"></path>
+      </g>
+    </g>
+  </g>
+</svg>
